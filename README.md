@@ -50,9 +50,9 @@ chmod +x tweet.sh
 ./tweet.sh 
 ```
 **------------------------------------------------------------------------------------------**
-*Put Your ID & BOT token in : config.lua & bot.lua*
-*Put Group Mod ID & Channel ID in : bot.lua*
-*Put your channel username in : core.lua , Line 190*
+#*Put Your ID & BOT token in : config.lua & bot.lua*
+#*Put Group Mod ID & Channel ID in : bot.lua*
+#*Put your channel username in : core.lua , Line 190*
 **------------------------------------------------------------------------------------------**
 # Fifth | For Auto Launch:
 ```sh

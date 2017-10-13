@@ -50,13 +50,9 @@ chmod +x tweet.sh
 ./tweet.sh 
 ```
 **------------------------------------------------------------------------------------------**
-Put Your ID & BOT token in : config.lua & bot.lua 
-در فایل های bot.lua و config.lua آیدی عددی خود و توکن ربات را قرار دهیید.
-Put Group Mod ID & Channel ID in : bot.lua
-در فایل bot.lua آیدی عددی گروه مدیریت خود و کانال مورد نظر را قرار دهید.
-Put your channel username in : core.lua , Line 190
-در خط 190 فایل core.lua یوزرنیم کانالی که میخواهید ربات بر روی جوین آن قفل شود را وارد کنید.
-ربات در کانال های فوق باید ادمین باشد!
+*Put Your ID & BOT token in : config.lua & bot.lua*
+*Put Group Mod ID & Channel ID in : bot.lua*
+*Put your channel username in : core.lua , Line 190*
 **------------------------------------------------------------------------------------------**
 # Fifth | For Auto Launch:
 ```sh
